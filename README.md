@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aaier Wagle.👋
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. Here’s a little more about me:
 
