@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. H
 
 ## 📫 How to reach me:
 - **GitHub:** [aaierwagle](https://github.com/aaierwagle)
-- **Email:** [badengineer202@gmail.com](mailto:badengineer202@gmail.com)
 - **Instagram:** [@iamaaier](https://www.instagram.com/iamaaier/)
 
 ## ⚡ Fun fact:
